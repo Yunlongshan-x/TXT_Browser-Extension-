@@ -178,6 +178,9 @@ Content-Type: application/json
 这种设计使得插件在工具栏中更容易识别。
 
 ---
+## ⚠️ 功能截图
+<img width="1214" height="1048" alt="image" src="https://github.com/user-attachments/assets/65524b3b-f110-4d16-a458-0af6733230db" />
+
 
 ## 👨‍💻 关于作者
 
